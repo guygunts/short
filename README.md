@@ -1,3 +1,4 @@
+ตัวอย่าง** facebook.com   เป็น http://localhost:4200/Zqli9t
 1.database=Mongodb<br>
 back-end=node js lib express.js<br>
 front-end=angular<br>
