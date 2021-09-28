@@ -1,0 +1,5 @@
+FROM node:16.5.0-alpine as backend
+WORKDIR /app.js
+COPY ./Mongodb .
+RUN npm install
+CMD node ./app.js
